@@ -1,0 +1,4 @@
+.gitattributes export-ignore
+LICENSE export-ignore
+README*.md export-ignore
+01-yellow-sitemaponlyxml.png export-ignore
